@@ -1,0 +1,16 @@
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\Cw1\bin\Debug\net8.0-windows\Cw1.exe
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\Cw1\bin\Debug\net8.0-windows\Cw1.deps.json
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\Cw1\bin\Debug\net8.0-windows\Cw1.runtimeconfig.json
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\Cw1\bin\Debug\net8.0-windows\Cw1.dll
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\Cw1\bin\Debug\net8.0-windows\Cw1.pdb
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\Cw1\obj\Debug\net8.0-windows\Cw1.Form1.resources
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\Cw1\obj\Debug\net8.0-windows\Cw1.csproj.GenerateResource.cache
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\Cw1\obj\Debug\net8.0-windows\Cw1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\Cw1\obj\Debug\net8.0-windows\Cw1.AssemblyInfoInputs.cache
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\Cw1\obj\Debug\net8.0-windows\Cw1.AssemblyInfo.cs
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\Cw1\obj\Debug\net8.0-windows\Cw1.csproj.CoreCompileInputs.cache
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\Cw1\obj\Debug\net8.0-windows\Cw1.dll
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\Cw1\obj\Debug\net8.0-windows\refint\Cw1.dll
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\Cw1\obj\Debug\net8.0-windows\Cw1.pdb
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\Cw1\obj\Debug\net8.0-windows\Cw1.genruntimeconfig.cache
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\Cw1\obj\Debug\net8.0-windows\ref\Cw1.dll
