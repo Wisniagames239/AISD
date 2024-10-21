@@ -1,0 +1,16 @@
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\sortowania\obj\Debug\net8.0-windows\sortowania.Form1.resources
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\sortowania\obj\Debug\net8.0-windows\sortowania.csproj.GenerateResource.cache
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\sortowania\obj\Debug\net8.0-windows\sortowania.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\sortowania\obj\Debug\net8.0-windows\sortowania.AssemblyInfoInputs.cache
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\sortowania\obj\Debug\net8.0-windows\sortowania.AssemblyInfo.cs
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\sortowania\obj\Debug\net8.0-windows\sortowania.csproj.CoreCompileInputs.cache
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\sortowania\bin\Debug\net8.0-windows\sortowania.exe
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\sortowania\bin\Debug\net8.0-windows\sortowania.deps.json
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\sortowania\bin\Debug\net8.0-windows\sortowania.runtimeconfig.json
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\sortowania\bin\Debug\net8.0-windows\sortowania.dll
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\sortowania\bin\Debug\net8.0-windows\sortowania.pdb
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\sortowania\obj\Debug\net8.0-windows\sortowania.dll
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\sortowania\obj\Debug\net8.0-windows\refint\sortowania.dll
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\sortowania\obj\Debug\net8.0-windows\sortowania.pdb
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\sortowania\obj\Debug\net8.0-windows\sortowania.genruntimeconfig.cache
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\sortowania\obj\Debug\net8.0-windows\ref\sortowania.dll
