@@ -83,7 +83,7 @@
             Controls.Add(textBox1);
             Controls.Add(label1);
             Name = "Form1";
-            Text = "Form1";
+            Text = "Sortowanie bąbelkowe";
             ResumeLayout(false);
             PerformLayout();
         }

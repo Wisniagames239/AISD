@@ -20,13 +20,9 @@ namespace Cw1
             {
                 MessageBox.Show("Proszê podaæ liczby oddzielone przecinkiem , ");
                 return;
-            }
-            int[] lista2 = lista;
+            };
+            
             segregowaniebabelkowo(lista);
-            if(lista==lista2)
-            {
-                MessageBox.Show("Nie mia³em nic do roboty, dziêki :)");
-            }
             napisout.Text = "Posortowane: " + string.Join(",", lista);
         }
         private void segregowaniebabelkowo(int[] lista)
@@ -43,6 +39,7 @@ namespace Cw1
                         lista[j + 1] = pom;
                     }
                 }
+                
             }
         }
     }
