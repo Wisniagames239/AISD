@@ -1,0 +1,16 @@
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\listy\bin\Debug\net8.0-windows\listy.exe
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\listy\bin\Debug\net8.0-windows\listy.deps.json
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\listy\bin\Debug\net8.0-windows\listy.runtimeconfig.json
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\listy\bin\Debug\net8.0-windows\listy.dll
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\listy\bin\Debug\net8.0-windows\listy.pdb
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\listy\obj\Debug\net8.0-windows\listy.Form1.resources
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\listy\obj\Debug\net8.0-windows\listy.csproj.GenerateResource.cache
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\listy\obj\Debug\net8.0-windows\listy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\listy\obj\Debug\net8.0-windows\listy.AssemblyInfoInputs.cache
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\listy\obj\Debug\net8.0-windows\listy.AssemblyInfo.cs
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\listy\obj\Debug\net8.0-windows\listy.csproj.CoreCompileInputs.cache
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\listy\obj\Debug\net8.0-windows\listy.dll
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\listy\obj\Debug\net8.0-windows\refint\listy.dll
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\listy\obj\Debug\net8.0-windows\listy.pdb
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\listy\obj\Debug\net8.0-windows\listy.genruntimeconfig.cache
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\listy\obj\Debug\net8.0-windows\ref\listy.dll
