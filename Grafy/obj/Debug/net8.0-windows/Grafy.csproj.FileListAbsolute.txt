@@ -1,0 +1,16 @@
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\Grafy\bin\Debug\net8.0-windows\Grafy.exe
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\Grafy\bin\Debug\net8.0-windows\Grafy.deps.json
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\Grafy\bin\Debug\net8.0-windows\Grafy.runtimeconfig.json
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\Grafy\bin\Debug\net8.0-windows\Grafy.dll
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\Grafy\bin\Debug\net8.0-windows\Grafy.pdb
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\Grafy\obj\Debug\net8.0-windows\Grafy.Form1.resources
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\Grafy\obj\Debug\net8.0-windows\Grafy.csproj.GenerateResource.cache
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\Grafy\obj\Debug\net8.0-windows\Grafy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\Grafy\obj\Debug\net8.0-windows\Grafy.AssemblyInfoInputs.cache
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\Grafy\obj\Debug\net8.0-windows\Grafy.AssemblyInfo.cs
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\Grafy\obj\Debug\net8.0-windows\Grafy.csproj.CoreCompileInputs.cache
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\Grafy\obj\Debug\net8.0-windows\Grafy.dll
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\Grafy\obj\Debug\net8.0-windows\refint\Grafy.dll
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\Grafy\obj\Debug\net8.0-windows\Grafy.pdb
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\Grafy\obj\Debug\net8.0-windows\Grafy.genruntimeconfig.cache
+C:\Users\wisni\OneDrive\Pulpit\studia\AISD\Grafy\obj\Debug\net8.0-windows\ref\Grafy.dll
